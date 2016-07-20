@@ -1,6 +1,6 @@
 ### Enhanced Image2 Plugin for Ckeditor
 
-This repository is meant to provide an Image2 Plugin repository on GitHub.
+This repository is meant to provide an Enhanced Image2 Plugin repository on GitHub.
 
 This is a plugin that will add some more features/fields which are not available in image2 plugin of *CKEDITOR*
 
